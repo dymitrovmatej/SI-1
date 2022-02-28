@@ -1,10 +1,10 @@
 IDE: Microsoft Visual Studio Code 
 
 Moduly: 
-- p5js live editor: Tento modul slouží převážně k grafické úpravě webu.
+- p5js live editor: Tento modůl slouží převážně ke grafické úpravě webu.
 - Auto Close Tag: Usnadňuje psaní díky tomu že za vás automaticky uzavíra koncové tagy.
 - Prettier: Toto rozšíření formátuje Java script, CSS, HTML kod.
-- Live Server: Toto rozšíření poskytuje žíví náhled webové stránky přímo v editoru.
+- Live Server: Toto rozšíření poskytuje žívý náhled webové stránky přímo v editoru.
 - Better Comments: Toto rozšíření vám pomůže vytvářet čitelné kometnáře.
 
 Zkratky:
