@@ -4,7 +4,7 @@ JEDNODUCHÝ DEMO PROGRAM TVOŘENÝ V PHP
 - Adam Steinert: tvorba třídy dog, tvorba třídy animal, vytváření UML diagramu
 - Matěj Dymitrov: tvorba třídy cat, tvorba třídy animal, vytváření UML diagramu 
  #
-- U každé třídy jsou řádně napsány komentaře co jaká funkce děla 
+- U každé třídy jsou řádně napsány komentáře co jaká funkce dělá. 
  #
 - UML Diagram: 
 
